@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <corners android:radius="@dimen/_3sdp" />
+
+   <!-- <gradient
+        android:centerColor="@color/colorButtonDynamic"
+        android:endColor="@color/colorButtonDynamic"
+        android:startColor="@color/colorButtonDynamic" />-->
+
+    <gradient
+        android:angle="270"
+        android:centerColor="@color/colorWhite"
+        android:endColor="#F4F4F4"
+        android:startColor="@color/colorWhite" />
+
+    <stroke
+        android:width="0.8dp"
+        android:color="#D4D4D4" />
+</shape>

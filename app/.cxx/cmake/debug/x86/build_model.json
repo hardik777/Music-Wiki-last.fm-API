@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\Work Space\\PracticalTest",
+      "sdkFolder": "E:\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\Work Space\\PracticalTest\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\Work Space\\PracticalTest\\app",
+      "makeFile": "E:\\Work Space\\PracticalTest\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\Work Space\\PracticalTest\\.cxx",
+      "cxxFolder": "E:\\Work Space\\PracticalTest\\app\\.cxx",
+      "ndkFolder": "E:\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "E:\\Work Space\\PracticalTest\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\Work Space\\PracticalTest\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 19,
+  "cxxBuildFolder": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "E:\\Work Space\\PracticalTest\\app\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\Work Space\\PracticalTest\\app\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}

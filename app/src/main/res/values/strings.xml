@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GreedyGame Practical</string>
+    <string name="error">Something went wrong</string>
+    <string name="movies">Movies</string>
+    <string name="search">Search</string>
+    <string name="musicwiki">musicwiki</string>
+    <string name="welcome">Welcome!</string>
+
+    <string name="home_fragment">Home Fragment</string>
+    <string name="sport_fragment">Sport Fragment</string>
+    <string name="movie_fragment">Movie Fragment</string>
+
+</resources>
